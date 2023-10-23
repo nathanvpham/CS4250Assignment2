@@ -59,7 +59,7 @@ def createDocument(cur, docId, docText, docTitle, docDate, docCat):
     # 3.2 For each term identified, check if the term already exists in the database
     # 3.3 In case the term does not exist, insert it into the database
     # --> add your Python code here
-    docText = docText.lower().replace(".","").replace("?","").replace("!","")
+    docText = docText.lower().replace(".","").replace("?","").replace("!","").replace(",","")
     docTextList = docText.split(" ")
     docTextListUnqiue = list(set(docTextList))
 
