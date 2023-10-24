@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "653736b36ae93fe487b27e3b"
+  },
+  "id": 1,
+  "title": "Exercise",
+  "text": "Baseball is played during summer months",
+  "num_chars": 34,
+  "date": "2023-10-03",
+  "categories": {
+    "category": "Sports"
+  },
+  "index": {
+    "baseball": 1,
+    "is": 1,
+    "played": 1,
+    "during": 1,
+    "summer": 1,
+    "months": 1
+  },
+  "terms": [
+    {
+      "term": "baseball",
+      "num_chars": 8
+    },
+    {
+      "term": "is",
+      "num_chars": 2
+    },
+    {
+      "term": "played",
+      "num_chars": 6
+    },
+    {
+      "term": "during",
+      "num_chars": 6
+    },
+    {
+      "term": "summer",
+      "num_chars": 6
+    },
+    {
+      "term": "months",
+      "num_chars": 6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653736b36ae93fe487b27e3c"
+  },
+  "id": 2,
+  "title": "California",
+  "text": "Summer is the time for picnics here. Picnics time!",
+  "num_chars": 40,
+  "date": "2023-10-03",
+  "categories": {
+    "category": "Sports"
+  },
+  "index": {
+    "summer": 1,
+    "is": 1,
+    "the": 1,
+    "time": 2,
+    "for": 1,
+    "picnics": 2,
+    "here": 1
+  },
+  "terms": [
+    {
+      "term": "summer",
+      "num_chars": 6
+    },
+    {
+      "term": "is",
+      "num_chars": 2
+    },
+    {
+      "term": "the",
+      "num_chars": 3
+    },
+    {
+      "term": "time",
+      "num_chars": 4
+    },
+    {
+      "term": "for",
+      "num_chars": 3
+    },
+    {
+      "term": "picnics",
+      "num_chars": 7
+    },
+    {
+      "term": "here",
+      "num_chars": 4
+    },
+    {
+      "term": "picnics",
+      "num_chars": 7
+    },
+    {
+      "term": "time",
+      "num_chars": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653736b36ae93fe487b27e3d"
+  },
+  "id": 3,
+  "title": "Discovery",
+  "text": "Months, months, months later we found out why.",
+  "num_chars": 36,
+  "date": "2023-10-03",
+  "index": {
+    "months": 3,
+    "later": 1,
+    "we": 1,
+    "found": 1,
+    "out": 1,
+    "why": 1
+  },
+  "categories": {
+    "category": "Seasons"
+  },
+  "terms": [
+    {
+      "term": "months",
+      "num_chars": 6
+    },
+    {
+      "term": "months",
+      "num_chars": 6
+    },
+    {
+      "term": "months",
+      "num_chars": 6
+    },
+    {
+      "term": "later",
+      "num_chars": 5
+    },
+    {
+      "term": "we",
+      "num_chars": 2
+    },
+    {
+      "term": "found",
+      "num_chars": 5
+    },
+    {
+      "term": "out",
+      "num_chars": 3
+    },
+    {
+      "term": "why",
+      "num_chars": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653736b36ae93fe487b27e3e"
+  },
+  "id": 4,
+  "title": "Arizona",
+  "text": "Why is summer so hot here? So hot!",
+  "num_chars": 25,
+  "date": "2023-10-03",
+  "index": {
+    "why": 1,
+    "is": 1,
+    "summer": 1,
+    "so": 2,
+    "hot": 2,
+    "here": 1
+  },
+  "categories": {
+    "category": "Seasons"
+  },
+  "terms": [
+    {
+      "term": "why",
+      "num_chars": 3
+    },
+    {
+      "term": "is",
+      "num_chars": 2
+    },
+    {
+      "term": "summer",
+      "num_chars": 6
+    },
+    {
+      "term": "so",
+      "num_chars": 2
+    },
+    {
+      "term": "hot",
+      "num_chars": 3
+    },
+    {
+      "term": "here",
+      "num_chars": 4
+    },
+    {
+      "term": "so",
+      "num_chars": 2
+    },
+    {
+      "term": "hot",
+      "num_chars": 3
+    }
+  ]
+}]
